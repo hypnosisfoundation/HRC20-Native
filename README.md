@@ -1,2 +1,2 @@
 # HRC20-Native
-Native HPN HRC20 token contracts
+Native Hypnosis HRC20 token contracts
